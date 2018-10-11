@@ -1,0 +1,26 @@
+/* You can add global styles to this file, and also import other style files */
+html,body{
+    height: 100%;
+    font-family: "Segoe UI";
+    font-size:16px;
+}
+.button{
+    background-color: white;
+    border: solid 2px #2196F3;
+    border-radius: 25px;
+    padding: 2%;
+    display: block;
+    color: gray;
+}
+.button:hover{
+    background-color:#2196F3 ;
+}
+.box {
+    background-color: #fff;
+    border-radius: 25px;
+    height: 75%;
+    width: 35%;
+    margin: auto;
+    padding: 2% 1%;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
+}

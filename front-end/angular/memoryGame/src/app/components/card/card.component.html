@@ -1,0 +1,12 @@
+<div *ngIf="card" class="container" (click)="toggleCard()">
+  <div class="card" [ngClass]="{'flipped':isFlipped||card.value!=null}">
+    <div class="front">?</div>
+    <div class="back" [ngStyle]="{'color': card.value==sessionStorage.getItem(global.USER)?
+    sessionStorage.getItem(global.MYCOLOR):'gray'}">
+      <section class="letter">{{card.key}}</section>
+      <section class="owner">
+        <small>{{card.value}}</small>
+      </section>
+    </div>
+  </div>
+</div>
