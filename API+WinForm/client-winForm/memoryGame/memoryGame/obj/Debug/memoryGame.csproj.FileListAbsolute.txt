@@ -1,0 +1,45 @@
+S:\חני ולדר\memory game\client-winForm\memoryGame\memoryGame\obj\Debug\memoryGame.csprojAssemblyReference.cache
+S:\חני ולדר\memory game\client-winForm\memoryGame\memoryGame\obj\Debug\memoryGame.ChoosePartner.resources
+S:\חני ולדר\memory game\client-winForm\memoryGame\memoryGame\obj\Debug\memoryGame.SignIn.resources
+S:\חני ולדר\memory game\client-winForm\memoryGame\memoryGame\obj\Debug\memoryGame.Properties.Resources.resources
+S:\חני ולדר\memory game\client-winForm\memoryGame\memoryGame\obj\Debug\memoryGame.csproj.GenerateResource.cache
+S:\חני ולדר\memory game\client-winForm\memoryGame\memoryGame\obj\Debug\memoryGame.csproj.CoreCompileInputs.cache
+S:\חני ולדר\memory game\client-winForm\memoryGame\memoryGame\bin\Debug\memoryGame.exe.config
+S:\חני ולדר\memory game\client-winForm\memoryGame\memoryGame\bin\Debug\memoryGame.exe
+S:\חני ולדר\memory game\client-winForm\memoryGame\memoryGame\bin\Debug\memoryGame.pdb
+S:\חני ולדר\memory game\client-winForm\memoryGame\memoryGame\bin\Debug\Newtonsoft.Json.dll
+S:\חני ולדר\memory game\client-winForm\memoryGame\memoryGame\obj\Debug\memoryGame.csproj.CopyComplete
+S:\חני ולדר\memory game\client-winForm\memoryGame\memoryGame\obj\Debug\memoryGame.exe
+S:\חני ולדר\memory game\client-winForm\memoryGame\memoryGame\obj\Debug\memoryGame.pdb
+S:\חני ולדר\memory game\client-winForm\memoryGame\memoryGame\obj\Debug\memoryGame.Game.resources
+S:\חני ולדר\memory game\client-winForm\memoryGame\memoryGame\obj\Debug\memoryGame.StartGame.resources
+S:\ChavyBerman\client-winForm\memoryGame\memoryGame\bin\Debug\memoryGame.exe.config
+S:\ChavyBerman\client-winForm\memoryGame\memoryGame\bin\Debug\memoryGame.exe
+S:\ChavyBerman\client-winForm\memoryGame\memoryGame\bin\Debug\memoryGame.pdb
+S:\ChavyBerman\client-winForm\memoryGame\memoryGame\bin\Debug\Newtonsoft.Json.dll
+S:\ChavyBerman\client-winForm\memoryGame\memoryGame\obj\Debug\memoryGame.csprojAssemblyReference.cache
+S:\ChavyBerman\client-winForm\memoryGame\memoryGame\obj\Debug\memoryGame.ChoosePartner.resources
+S:\ChavyBerman\client-winForm\memoryGame\memoryGame\obj\Debug\memoryGame.Game.resources
+S:\ChavyBerman\client-winForm\memoryGame\memoryGame\obj\Debug\memoryGame.SignIn.resources
+S:\ChavyBerman\client-winForm\memoryGame\memoryGame\obj\Debug\memoryGame.Properties.Resources.resources
+S:\ChavyBerman\client-winForm\memoryGame\memoryGame\obj\Debug\memoryGame.StartGame.resources
+S:\ChavyBerman\client-winForm\memoryGame\memoryGame\obj\Debug\memoryGame.csproj.GenerateResource.cache
+S:\ChavyBerman\client-winForm\memoryGame\memoryGame\obj\Debug\memoryGame.csproj.CoreCompileInputs.cache
+S:\ChavyBerman\client-winForm\memoryGame\memoryGame\obj\Debug\memoryGame.csproj.CopyComplete
+S:\ChavyBerman\client-winForm\memoryGame\memoryGame\obj\Debug\memoryGame.exe
+S:\ChavyBerman\client-winForm\memoryGame\memoryGame\obj\Debug\memoryGame.pdb
+S:\תמי פרישמן\memory game\client-winForm\memoryGame\memoryGame\bin\Debug\memoryGame.exe.config
+S:\תמי פרישמן\memory game\client-winForm\memoryGame\memoryGame\bin\Debug\memoryGame.exe
+S:\תמי פרישמן\memory game\client-winForm\memoryGame\memoryGame\bin\Debug\memoryGame.pdb
+S:\תמי פרישמן\memory game\client-winForm\memoryGame\memoryGame\bin\Debug\Newtonsoft.Json.dll
+S:\תמי פרישמן\memory game\client-winForm\memoryGame\memoryGame\obj\Debug\memoryGame.csprojAssemblyReference.cache
+S:\תמי פרישמן\memory game\client-winForm\memoryGame\memoryGame\obj\Debug\memoryGame.ChoosePartner.resources
+S:\תמי פרישמן\memory game\client-winForm\memoryGame\memoryGame\obj\Debug\memoryGame.Game.resources
+S:\תמי פרישמן\memory game\client-winForm\memoryGame\memoryGame\obj\Debug\memoryGame.SignIn.resources
+S:\תמי פרישמן\memory game\client-winForm\memoryGame\memoryGame\obj\Debug\memoryGame.Properties.Resources.resources
+S:\תמי פרישמן\memory game\client-winForm\memoryGame\memoryGame\obj\Debug\memoryGame.StartGame.resources
+S:\תמי פרישמן\memory game\client-winForm\memoryGame\memoryGame\obj\Debug\memoryGame.csproj.GenerateResource.cache
+S:\תמי פרישמן\memory game\client-winForm\memoryGame\memoryGame\obj\Debug\memoryGame.csproj.CoreCompileInputs.cache
+S:\תמי פרישמן\memory game\client-winForm\memoryGame\memoryGame\obj\Debug\memoryGame.csproj.CopyComplete
+S:\תמי פרישמן\memory game\client-winForm\memoryGame\memoryGame\obj\Debug\memoryGame.exe
+S:\תמי פרישמן\memory game\client-winForm\memoryGame\memoryGame\obj\Debug\memoryGame.pdb
