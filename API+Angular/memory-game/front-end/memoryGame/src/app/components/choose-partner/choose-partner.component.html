@@ -1,0 +1,21 @@
+<div class="container box">
+  <h1 class="text-center">Choose a partner</h1>
+  <ul>
+    <li class="row">
+        <span class="col-md-4">
+          <h3>user name:</h3>
+        </span>
+        <span class="col-md-4">
+            <h3>age:</h3>
+        </span>
+    </li>
+    <li *ngFor="let user of users;let i=index" class="row">
+      <span  class="col-md-4">{{user.userName}}</span>
+      <span class="col-md-4">{{user.age}}</span>
+      <span><button (click)="choosePartner(i)"class="btn-outline-primary button col-md-4">choose</button></span>
+    </li>
+  </ul>
+</div>
+
+
+

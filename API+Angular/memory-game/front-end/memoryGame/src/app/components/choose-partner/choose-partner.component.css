@@ -1,0 +1,10 @@
+li{
+    list-style-type: none;
+    margin: 1% 0;
+}
+.box{
+    width: 40%;
+}
+span{
+    font-size: 20px;
+}
